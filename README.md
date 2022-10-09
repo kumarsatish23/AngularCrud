@@ -35,6 +35,8 @@ npm start
 # Screenshort of project
 ![alt text](https://github.com/kumarsatish23/AngularCrud/blob/main/src/assets/Screenshot%202022-10-09%20105033.png)
 
+Adding or editing Project
 ![alt text](https://github.com/kumarsatish23/AngularCrud/blob/main/src/assets/Screenshot%202022-10-09%20105122.png)
 
+fiter option
 ![alt text](https://github.com/kumarsatish23/AngularCrud/blob/main/src/assets/Screenshot%202022-10-09%20105216.png)
