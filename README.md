@@ -9,7 +9,7 @@ AngularCurd uses a number of open source projects to work properly:
 
 - [node.js](https://nodejs.org/en/) - evented I/O for the backend
 
-- [AngularJS](https://angular.io/) - HTML enhanced for web apps!
+- [AngularJS](https://angular.io/) - Angular is an application-design framework for creating single-page apps.
 - [Json server](https://www.npmjs.com/package/json-server) - Json  server serves as database for this project
 - [Angular Material](https://material.angular.io/) -High quality,Versatile,Frictionless,Material Design components for Angular
 
